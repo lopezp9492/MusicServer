@@ -1,0 +1,3 @@
+nanaeaubry@gmail.com;abcd;1
+bar@example.com;1234;2
+hello@gmail.com;123456;3
