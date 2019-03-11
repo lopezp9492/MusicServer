@@ -9,6 +9,8 @@ import java.util.HashMap;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
+import Interfaces.DispatcherInterface;
+
 import java.util.*;
 import java.lang.reflect.*;
 

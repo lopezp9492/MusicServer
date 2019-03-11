@@ -1,3 +1,4 @@
+package Interfaces;
 import com.google.gson.JsonObject;
 
 public interface DispatcherInterface {
