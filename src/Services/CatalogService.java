@@ -1,3 +1,4 @@
+package Services;
 import java.io.FileReader;
 
 import java.io.IOException;
@@ -48,7 +49,7 @@ public class CatalogService {
 
 		//TODO: use trim()? where is stripLeading() defined?
 		if (filter != null) {
-			filter = filter.stripLeading().toLowerCase();
+			filter = filter.trim().toLowerCase();
 		}
 
 		JsonArray ret = new JsonArray();

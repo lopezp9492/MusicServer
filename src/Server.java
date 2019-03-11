@@ -4,6 +4,11 @@
 
 import java.util.Scanner;
 
+import Services.CatalogService;
+import Services.LoginService;
+import Services.SongService;
+import Services.UserService;
+
 
 /**
  * Main Class for server. Will provide menu with options from terminal
